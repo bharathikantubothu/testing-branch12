@@ -16,7 +16,7 @@ view: orders {
     type: string
     sql: ${TABLE}.status ;;
   }
-dimension: status11 {
+dimension: status12 {
     type: string
     sql: ${TABLE}.status ;;
   }
